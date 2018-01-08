@@ -1,0 +1,72 @@
+agiotensin antagonist:AGT,2
+apoptosis inducer,1
+autophay inducer:PIKFYVE,1
+BCR signaling:BTK,1
+BCR signaling:SYK,3
+BCR signaling:TNF,2
+DNA damage inducer:CHEK1,1
+DNA damage inducer:CHEK2,1
+epigenetic modulator:BRD4,1
+epigenetic modulator:HDAC1,2
+ER stress inducer:BIRC5,1
+ER stress inducer:EEF1A1,1
+ER stress inducer:HSP90AB1,1
+ER stress inducer:PSMD1,2
+ER stress inducer:SERCA,2
+ER stress inducer:VCP,1
+glycolysis inhibitor:HK1,1
+Jak-Stat signaling:IL12,1
+Jak-Stat signaling:JAK1,1
+Jak-Stat signaling:JAK2,1
+Jak-Stat signaling:STAT3,1
+Jak-Stat signaling:TYK2,1
+Met signaling inhibitor:MET,1
+mitotic blocker:G1 phase:antimetabolite,4
+mitotic blocker:G1 phase:DNA replication,1
+mitotic blocker:G2-M phase:CDK1,2
+mitotic blocker:M phase:AURKA,6
+mitotic blocker:M phase:cytokenesis,9
+mitotic blocker:M phase:KIF11,3
+mitotic blocker:M phase:MPS1,1
+mitotic blocker:S-G2 phase:DNA replication,14
+NF-kB signaling inhibitor:NFKB1,2
+nuclear receptor:RARB,1
+nuclear receptor:RORB,1
+nuclear receptor:RXR,1
+nuclear receptor:RXRA,1
+other,10
+other kinase:ALK5,1
+other kinase:Bcr-Abl,1
+other kinase:CSNK2A1,1
+other kinase:PRKCA,2
+other kinase:ROCK1,1
+oxidative stress inducer:CDPK1,1
+oxidative stress inducer:glutathione blocker:Xc system,1
+oxidative stress inducer:mitochondria,1
+oxidative stress inducer:MTC blocker:complex III,1
+oxidative stress inducer:NAMPT,2
+oxidative stress inducer:thio-stress,1
+PI3K-mTOR signaling inhibitor:AKT1,1
+PI3K-mTOR signaling inhibitor:GSK3B,1
+PI3K-mTOR signaling inhibitor:MTOR,12
+PI3K-mTOR signaling inhibitor:PI3K,10
+protein synthesis blocker:PRKDC,1
+protein synthesis blocker:RNA synthesis,3
+protein synthesis blocker:translation initiation,1
+protein synthesis blocker:XPO1,2
+Ras signaling:COX10,1
+Ras signaling:MAP2K1,4
+Ras signaling:MITF,1
+RTK signaling:ERBB2,1
+RTK signaling:FGFR,2
+RTK signaling:FLT1,4
+RTK signaling:IGFR1,2
+RTK signaling:KDR,2
+RTK signaling:KIT,1
+RTK signaling:MET,2
+RTK signaling:PDGFRB,1
+survival blocker:Bcl family:BCL2,2
+survival blocker:IAP family:XIAP,1
+survival blocker:KDR,1
+TCR signaling:ITK,3
+TCR signaling:LCK,1
